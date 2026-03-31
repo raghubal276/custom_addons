@@ -8,7 +8,7 @@
     'depends': ['web', 'base_setup'],
     'auto_install': False,
     'data': [
-        'views/webclient_templates.xml',
+        # 'views/webclient_templates.xml',
     ],
     'assets': {
         'web._assets_primary_variables': [
